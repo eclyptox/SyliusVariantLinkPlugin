@@ -1,5 +1,5 @@
 {
-    "name": "setono/sylius-variant-link-plugin",
+    "name": "eclyptox/sylius-variant-link-plugin",
     "type": "sylius-plugin",
     "description": "Sylius plugin that makes it possible to link directly to variants",
     "keywords": [
